@@ -1,0 +1,100 @@
+    1  ls
+    2  top
+    3  tmux ls
+    4  lein version 
+    5  which add-github-key 
+    6  ls /usr/local/bin
+    7  emacs --version 
+    8  sudo aptitude install emacs24
+    9  sudo aptitude install emacs24-nox
+   10  emacs --version 
+   11  ls
+   12  cd
+   13  mkdir bin
+   14  cd bin
+   15  wget https://raw.github.com/technomancy/leiningen/stable/bin/lein
+   16  chmod +x
+   17  cd ..
+   18  cd -
+   19  ls
+   20  chmod +x lein
+   21  cd
+   22  ls
+   23  export PATH=$PATH:~/bin
+   24  echo 'export PATH=$PATH:~/bin' >> ~/.bashrc
+   25  tail ~/.bashrc
+   26  lein version 
+   27  sudo aptitude search openjdk
+   28  sudo aptitude install openjdk-6-jdk
+   29  lein version 
+   30  cd
+   31  bash <(curl -fksSL https://raw.github.com/overtone/emacs-live/master/installer/install-emacs-live.sh)
+   32  ls
+   33  cd cpug-meetup-20130528/
+   34  ls
+   35  cd ..
+   36  lein new cpug/m20130528
+   37  cd m20130528/
+   38  ls
+   39  ls -al 
+   40  mv doc .gitignore project.clj README.md resources/ src/ test/ ../cpug-meetup-20130528/
+   41  cd ../cpug-meetup-20130528/
+   42  ls
+   43  cd ..
+   44  ls
+   45  rmdir m20130528/
+   46  cd cpug-meetup-20130528/
+   47  ls
+   48  echo $TERM
+   49  cd
+   50  ls
+   51  emacs .bashrc 
+   52  tmux
+   53  exit
+   54  git push 
+   55  add-github-key 
+   56  add-github-key ardumont
+   57  dawidlo
+   58  add-github-key dawidlo
+   59  add-github-key fsarradin
+   60  ll
+   61  {   .,; 
+   62  #hola
+   63  #ketal
+   64  #denis
+   65  #tony
+   66  add-github-key ahoy-jon
+   67  add-github-key hiram-madelaine
+   68  add-github-key fsarradin
+   69  which add-github-key 
+   70  # on commence / 
+   71  ?
+   72  ok
+   73  42
+   74  ls
+   75  cd cpug-meetup-20130528/
+   76  ls
+   77  tree src
+   78  ls -r src
+   79  ls -R src
+   80  cd ..
+   81  screen -list
+   82  screen -L
+   83  ls
+   84  exit
+   85  tmux attach
+   86  tmux attach
+   87  ls
+   88  cd
+   89  ls
+   90  cd cpug-meetup-20130528/
+   91  git push
+   92  cat .git/config 
+   93  ls
+   94  git remote rm origin 
+   95  git remote add origin git@github.com:CPUG/cpug-meetup-20130528.git
+   96  git push
+   97  cd ..
+   98  ls
+   99  cp -r bin cpug-meetup-20130528/histo
+  100  history > cpug-meetup-20130528/histo/h.txt
