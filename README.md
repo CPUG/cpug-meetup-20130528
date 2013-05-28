@@ -1,4 +1,13 @@
-cpug-meetup-20130528
-====================
+# m20130528
 
-The meetup repo for 20130528
+A Clojure library designed to ... well, that part is up to you.
+
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2013 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
